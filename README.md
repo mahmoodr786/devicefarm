@@ -5,9 +5,4 @@ The following repo contains sample code you need to start testing a webstie usin
 
 ### Instructions
 
-For full details follow instructions here: 
-
-Test Video: 
-<video src="test_video.mp4" width="500"/>
-
-
+For full details follow instructions here: https://medium.com/@mahmood1/testing-website-with-aws-device-farm-28db479de16e
